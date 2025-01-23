@@ -1,4 +1,9 @@
-## Hi there 👋
+🔭 **No trabalho:** Atuo como líder em uma empresa de comunicação com tecnologia. Minha função envolve guiar uma equipe incrível na criação de soluções inovadoras que transformam a forma como as pessoas se comunicam.
+
+🌱 **No aprendizado:** Atualmente, sou estudante no Instituto Federal de Ciência e Tecnologia de São Paulo (IFSP). Estou mergulhando fundo em HTML, CSS, Banco de Dados, Java, e Linguagem C. Cada linha de código é um passo a mais na minha jornada de aprendizado.
+
+👯 **Em projetos colaborativos:** Estou animado para colaborar em projetos que envolvem desenvolvimento web, gerenciamento de dados e programação. Adoro a ideia de juntar forças com outros profissionais incríveis para criar soluções de impacto. Vamos construir algo incrível juntos!
+
 
 <!--
 **IgorLima100/IgorLima100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
