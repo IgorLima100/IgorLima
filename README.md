@@ -5,6 +5,7 @@
 👯 **Em projetos colaborativos:** Estou animado para colaborar em projetos que envolvem desenvolvimento web, gerenciamento de dados e programação. Adoro a ideia de juntar forças com outros profissionais incríveis para criar soluções de impacto. Vamos construir algo incrível juntos!
 
 
+ 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 <!--
 **IgorLima100/IgorLima100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
